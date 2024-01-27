@@ -1,1 +1,0 @@
-# android-ble-posprinter
